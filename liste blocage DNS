@@ -25,3 +25,7 @@
 ||bowfile.com^$script,third-party,domain=pagead2.googlesyndication.com
 ||bowfile.com^$script,third-party,domain=googletagmanager.com
 ||bowfile.com^$script,third-party,domain=bowfile.com/js/xads.js
+
+# Client Blitz (LoL)
+
+||octopus.energy^
