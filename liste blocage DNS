@@ -32,3 +32,6 @@
 ||octopus.energy^
 ||adclick.g.doubleclick.net^
 ||doubleclick.net^
+
+# Blocage pub Orange.fr
+||cas.criteo.com^
