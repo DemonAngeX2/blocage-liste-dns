@@ -35,3 +35,9 @@
 
 # Blocage pub Orange.fr
 ||criteo.com^
+
+# Blocage TradingView
+
+||doubleclick.net^
+||googleadservices.com^
+
